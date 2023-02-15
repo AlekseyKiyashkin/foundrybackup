@@ -1,0 +1,13 @@
+*.jpg
+*.jpeg
+*.webp
+*.png
+*.gif
+*.mp3
+*.flac
+*.svg
+*.bmp
+*.zip
+*.rar
+*.pdf
+*.ogg
