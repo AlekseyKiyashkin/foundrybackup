@@ -15,4 +15,3 @@ tar --exclude-from="$ExclusionsFileName" -zcvf $BackupsDir/foundryhome$(date +"%
 
 #backup foundry userdata
 tar --exclude-from="$ExclusionsFileName" -zcvf $BackupsDir/foundryuserdata$(date +"%d_%m_%Y").tar.gz $FoundryDataDir >> $LogFileName
-
